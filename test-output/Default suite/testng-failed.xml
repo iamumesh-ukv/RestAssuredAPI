@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="httprequests.HTTPRequest">
+      <class name="Session3.PathAndQueryParameters">
         <methods>
-          <include name="createUser"/>
+          <include name="testPathAndQueryParameter"/>
         </methods>
-      </class> <!-- httprequests.HTTPRequest -->
+      </class> <!-- Session3.PathAndQueryParameters -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
