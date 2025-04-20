@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-20T01:05:10 IST" name="Default suite" finished-at="2025-04-20T01:05:15 IST" duration-ms="4819">
+  <suite started-at="2025-04-20T18:47:41 IST" name="Default suite" finished-at="2025-04-20T18:47:44 IST" duration-ms="3548">
     <groups>
     </groups>
-    <test started-at="2025-04-20T01:05:10 IST" name="Default test" finished-at="2025-04-20T01:05:15 IST" duration-ms="4819">
-      <class name="Session3.PathAndQueryParameters">
-        <test-method signature="testPathAndQueryParameter()[pri:0, instance:Session3.PathAndQueryParameters@1b1426f4]" started-at="2025-04-20T01:05:11 IST" name="testPathAndQueryParameter" finished-at="2025-04-20T01:05:15 IST" duration-ms="4758" status="PASS">
+    <test started-at="2025-04-20T18:47:41 IST" name="Default test" finished-at="2025-04-20T18:47:44 IST" duration-ms="3548">
+      <class name="Session3.LoggingDiffWaysToShow">
+        <test-method signature="testLogs()[pri:1, instance:Session3.LoggingDiffWaysToShow@1b1426f4]" started-at="2025-04-20T18:47:41 IST" name="testLogs" finished-at="2025-04-20T18:47:44 IST" duration-ms="3401" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPathAndQueryParameter -->
-      </class> <!-- Session3.PathAndQueryParameters -->
+        </test-method> <!-- testLogs -->
+      </class> <!-- Session3.LoggingDiffWaysToShow -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
