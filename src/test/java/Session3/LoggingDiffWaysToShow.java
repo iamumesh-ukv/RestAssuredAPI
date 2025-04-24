@@ -18,7 +18,7 @@ public class LoggingDiffWaysToShow {
 		.then()
 		//.log().all();  // you can print all info 
 		//.log().body();   // you can print body only
-		.log().headers();
+		.log().headers();   //  you can print headers only
 		
 		
 	}
